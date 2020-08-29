@@ -1,0 +1,11 @@
+xst -intstyle ise -ifn "C:/OUR_PROCESSOR/OUR_PROCESSOR/Top_module.xst" -ofn "C:/OUR_PROCESSOR/OUR_PROCESSOR/Top_module.syr" 
+xst -intstyle ise -ifn "C:/OUR_PROCESSOR/OUR_PROCESSOR/Top_module.xst" -ofn "C:/OUR_PROCESSOR/OUR_PROCESSOR/Top_module.syr" 
+vhdtdtfi -lang verilog -prj OUR_PROCESSOR -o C:/OUR_PROCESSOR/OUR_PROCESSOR/Top_module.tfi -lib work C:/OUR_PROCESSOR/OUR_PROCESSOR//Top_module.v -module Top_module -template d:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+xst -intstyle ise -ifn "C:/OUR_PROCESSOR/OUR_PROCESSOR/Top_module.xst" -ofn "C:/OUR_PROCESSOR/OUR_PROCESSOR/Top_module.syr" 
+vhdtdtfi -lang verilog -prj OUR_PROCESSOR -o C:/OUR_PROCESSOR/OUR_PROCESSOR/Top_module.tfi -lib work C:/OUR_PROCESSOR/OUR_PROCESSOR//Top_module.v -module Top_module -template d:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+vhdtdtfi -lang verilog -prj OUR_PROCESSOR -o C:/OUR_PROCESSOR/OUR_PROCESSOR/Top_module.tfi -lib work C:/OUR_PROCESSOR/OUR_PROCESSOR//Top_module.v -module Top_module -template d:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+xst -intstyle ise -ifn "C:/OUR_PROCESSOR/OUR_PROCESSOR/Top_module.xst" -ofn "C:/OUR_PROCESSOR/OUR_PROCESSOR/Top_module.syr" 
+xst -intstyle ise -ifn "C:/OUR_PROCESSOR/OUR_PROCESSOR/Top_module.xst" -ofn "C:/OUR_PROCESSOR/OUR_PROCESSOR/Top_module.syr" 
+xst -intstyle ise -ifn "C:/OUR_PROCESSOR/OUR_PROCESSOR/Top_module.xst" -ofn "C:/OUR_PROCESSOR/OUR_PROCESSOR/Top_module.syr" 
+xst -intstyle ise -ifn "C:/OUR_PROCESSOR/OUR_PROCESSOR/Top_module.xst" -ofn "C:/OUR_PROCESSOR/OUR_PROCESSOR/Top_module.syr" 
+xst -intstyle ise -ifn "C:/OUR_PROCESSOR/OUR_PROCESSOR/Top_module.xst" -ofn "C:/OUR_PROCESSOR/OUR_PROCESSOR/Top_module.syr" 

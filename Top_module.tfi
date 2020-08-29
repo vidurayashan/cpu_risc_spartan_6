@@ -1,0 +1,13 @@
+
+
+
+// Instantiate the module
+Top_module instance_name (
+    .clock(clock), 
+    .finish(finish), 
+    .iram_out(iram_out), 
+    .iram_addr(iram_addr), 
+    .iram_data_in(iram_data_in)
+    );
+
+
